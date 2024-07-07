@@ -26,6 +26,8 @@ box-shadow: 4px 5px 5px blueviolet;
 
 }
 
+
+
 /* header styles */
 
 .header{
@@ -123,4 +125,10 @@ main{
 
 .item-description{
     font-weight: 600;
+}
+
+/* section skills */
+
+.text-center{
+    text-align: center;
 }
